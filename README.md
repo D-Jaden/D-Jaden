@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hello I'm Jaden<br><br>- Linux User 🐧<br>- Cyber-Security <br>- Student Developer<br>- Web Development<br>- Open-Source Contributor<br>-`sudo rm -rf /` survivor <br> 
+# Hello I'm Jaden<br><br>- Linux User 🐧<br>- Cyber-Security <br>- Student Developer<br>- Web Development<br>- Open-Source Contributor<br>-`sudo rm -rf /` survivor <br> 
 
 
 ## 🌐 Socials:
