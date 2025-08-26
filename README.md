@@ -105,7 +105,12 @@
   </a>
 </p>
 
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jaden&show_icons=true&locale=en&card_width=4000&card_height=4000" 
+    alt="d-jaden" 
+  />
+</p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jaden&show_icons=true&locale=en&layout=compact" alt="d-jaden" /></p>
