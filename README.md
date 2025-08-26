@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaden</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.pixilart.com/art/coding-dogo-sr2712ab0b35ecd">
+<img align="right" alt="Coding" width="400" src="https://www.pixilart.com/art/coding-dogo-sr2712ab0b35ecd.gif">
 
 - 🔭 I’m currently working on **AutoBhasha**
 
