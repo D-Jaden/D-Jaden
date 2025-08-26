@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaden</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/zzKjscz-O8uRdmy-Yoi8LMG-9E3vtlHagRudVpINOJI/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/R0tmMkptSlRydjBB/QUFBTS9qYXZhc2Ny/aXB0LWhhZG91a2Vu/LmdpZg.gif">
 
 - 🔭 I’m currently working on **AutoBhasha**
 
