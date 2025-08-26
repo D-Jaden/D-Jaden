@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaden</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jaden" alt="d-jaden" /></a> </p>
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 
 - 🔭 I’m currently working on **AutoBhasha**
 
