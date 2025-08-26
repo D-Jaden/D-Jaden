@@ -108,7 +108,7 @@
 <p>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jaden&show_icons=true&locale=en&card_width=4000&card_height=4000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jaden&show_icons=true&locale=en&card_height=2000&card_width=1200" 
     alt="d-jaden" 
   />
 </p>
