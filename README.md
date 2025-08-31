@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/D-Jaden](https://github.com/D-Jaden)
 
-- ⚡ Fun fact **MORE PUSHES = HIGHER CHANCES FOR PACMAN TO WIN **
+- ⚡ Fun fact: **MORE PUSHES = HIGHER CHANCES FOR PACMAN TO WIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
