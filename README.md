@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Svelte,GSAP,PostgreSQL**
 
-- 👨‍💻 All of my projects are available in my github repositories
+- 👨‍💻 All of my projects are available in **My GitHub**
 
 - ⚡ Fun fact: **MORE PUSHES = HIGHER CHANCES FOR PACMAN TO WIN**
 
