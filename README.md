@@ -120,11 +120,7 @@
 
 <h3 align="left">🔥 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=D-Jaden&theme=dark" alt="wakatime stats" />
-</p>
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Jaden&theme=dark" alt="streak stats" />
 </p>
 
 
