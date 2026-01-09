@@ -118,17 +118,13 @@
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="lightroom" width="80" height="80"/>
 </p>
 
-<h3 align="left">🏆 Trophies</h3>
+<h3 align="left">🔥 GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=D-Jaden&theme=dark" alt="wakatime stats" />
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=D-Jaden&theme=onedark)
-
-
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jaden&show_icons=true&locale=en&card_height=2000&card_width=1200&theme=dark" 
-    alt="d-jaden" 
-  />
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
 </p>
 
 
