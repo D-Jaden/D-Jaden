@@ -122,7 +122,6 @@
   <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="coffee consumed" />
   <img src="https://img.shields.io/badge/Bugs%20Created-Too%20Many-red?style=for-the-badge&logo=bug" alt="bugs created" />
   <img src="https://img.shields.io/badge/Code%20Quality-It%20Works™-green?style=for-the-badge&logo=checkmarx" alt="code quality" />
-  <img src="https://img.shields.io/badge/Sleep%20Schedule-What's%20That?-blueviolet?style=for-the-badge&logo=clockify" alt="sleep schedule" />
 </p>
 
 
