@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
 
-- 🔭 I’m currently working on **AutoBhasha**
+- 🔭 I’m currently working on **TOO MANY PROJECTS**
 
 - 🌱 I’m currently learning **Svelte,GSAP,PostgreSQL**
 
