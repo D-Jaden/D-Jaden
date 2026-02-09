@@ -124,10 +124,8 @@
   <img src="https://img.shields.io/badge/Code%20Quality-It%20Works™-green?style=for-the-badge&logo=checkmarx" alt="code quality" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/D-Jaden/D-Jaden/blob/output/space-invaders-contribution-graph-dark.svg">
-  <img alt="Space Invaders" src="https://github.com/D-Jaden/D-Jaden/blob/output/space-invaders-contribution-graph-dark.svg">
-</picture>
+![pacman gif](https://github.com/D-Jaden/D-Jaden/blob/output/pacman-contribution-graph-dark.svg)
+
 
 
 
