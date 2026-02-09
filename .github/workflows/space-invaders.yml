@@ -1,0 +1,10 @@
+name: Space Invaders README
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Space Invaders README
+        uses: czl9707/gh-space-shooter@main
+
