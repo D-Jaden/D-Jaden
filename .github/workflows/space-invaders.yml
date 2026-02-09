@@ -1,0 +1,39 @@
+name: Space Invaders Contribution Graph
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Start date (YYYY-MM-DD)'
+        required: true
+        default: '2024-01-01'
+      alien_type:
+        description: 'Alien type (1, 2, or 3)'
+        required: true
+        default: '1'
+      brightness:
+        description: 'Brightness (1-4)'
+        required: true
+        default: '3'
+
+jobs:
+  create-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Generate commits
+        run: |
+          # Your script to generate commits here
+          # This would use the inputs from the workflow
+          
+      - name: Push commits
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git push
