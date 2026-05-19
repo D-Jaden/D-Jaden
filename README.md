@@ -1,5 +1,18 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/071/087/584/original/fatih-emir-bg-design.gif?1704403912)
-<h1 align="center">Hi 👋, I'm Jaden</h1>
+
+<div align="center">
+<pre>         
+ (`-').->  _           _         <-. (`-')                (`-')  _ _(`-')    (`-')  _<-. (`-')_ 
+ (OO )__  (_)         (_)    ,--.   \(OO )_               (OO ).-/( (OO ).-> ( OO).-/   \( OO) )
+,--. ,'-' ,-(`-')     ,-(`-')\  |,--./  ,-.)       <-.--. / ,---.  \    .'_ (,------.,--./ ,--/ 
+|  | |  | | ( OO)     | ( OO) `-'|   `.'   |     (`-'| ,| | \ /`.\ '`'-..__) |  .---'|   \ |  | 
+|  `-'  | |  |  )     |  |  )    |  |'.'|  |     (OO |(_| '-'|_.' ||  |  ' |(|  '--. |  . '|  |)
+|  .-.  |(|  |_/     (|  |_/     |  |   |  |    ,--. |  |(|  .-.  ||  |  / : |  .--' |  |\    | 
+|  | |  | |  |'->     |  |'->    |  |   |  |    |  '-'  / |  | |  ||  '-'  / |  `---.|  | \   | 
+`--' `--' `--'        `--'       `--'   `--'     `-----'  `--' `--'`------'  `------'`--'  `--' 
+</pre>  
+</div>
+  
 <h3 align="center">A FullStack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
