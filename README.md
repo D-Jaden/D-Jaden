@@ -178,7 +178,13 @@
   <img src="https://img.shields.io/badge/Code%20Quality-It%20Works™-green?style=for-the-badge&logo=checkmarx" alt="code quality" />
 </p>
 
-![Space Invaders](https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/dist/space-invaders.svg)
+<h3 align="left">Bugs Detected:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders.svg">
+  <img alt="Space Invaders" src="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders.svg" width="100%">
+</picture>
+
 
 
 
