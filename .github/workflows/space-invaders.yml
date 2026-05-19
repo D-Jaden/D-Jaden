@@ -14,7 +14,7 @@ jobs:
       - name: Generate Space Invaders
         uses: czl9707/gh-space-shooter@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.D-Jaden }}
           output_path: dist/space-invaders.svg
       
       - name: Push to output branch
