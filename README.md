@@ -12,9 +12,19 @@
 `--' `--' `--'        `--'       `--'   `--'     `-----'  `--' `--'`------'  `------'`--'  `--' 
 </pre>  
 </div>
-  
-<h3 align="center">A FullStack Developer</h3>
 
+<div align="center">
+<pre>
+             ______     _ _    _____ _             _      _____                 _                       
+     /\     |  ____|   | | |  / ____| |           | |    |  __ \               | |                      
+    /  \    | |__ _   _| | | | (___ | |_ __ _  ___| | __ | |  | | _____   _____| | ___  _ __   ___ _ __ 
+   / /\ \   |  __| | | | | |  \___ \| __/ _` |/ __| |/ / | |  | |/ _ \ \ / / _ \ |/ _ \| '_ \ / _ \ '__|
+  / ____ \  | |  | |_| | | |  ____) | || (_| | (__|   <  | |__| |  __/\ V /  __/ | (_) | |_) |  __/ |   
+ /_/    \_\ |_|   \__,_|_|_| |_____/ \__\__,_|\___|_|\_\ |_____/ \___| \_/ \___|_|\___/| .__/ \___|_|   
+                                                                                       |_|              
+                                                                                                                                                    
+</pre>  
+</div>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
 
 -  I’m currently working on **TOO MANY PROJECTS**
@@ -36,10 +46,8 @@
   <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="30" />
 </a>
 
-</p>
-
-## My Favorite Tools and Technologies
-
+</div>
+<h3 align="center">The Tools And Technology I Use</h3>
 <div align="center">
 
 <table>
@@ -184,21 +192,16 @@
 
 </div>
 
-<h3 align="left">Work:</h3>
-<p align="left">
+<h3 align="center">Work:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="coffee consumed" />
   <img src="https://img.shields.io/badge/Bugs%20Created-Too%20Many-red?style=for-the-badge&logo=bug" alt="bugs created" />
   <img src="https://img.shields.io/badge/Code%20Quality-It%20Works™-green?style=for-the-badge&logo=checkmarx" alt="code quality" />
 </p>
 
-<h3 align="left">Bugs Detected:</h3>
+<h3 align="center">Bugs Detected:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders.svg">
   <img alt="Space Invaders" src="https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/commit-invaders.svg" width="100%">
 </picture>
-
-
-
-
-
