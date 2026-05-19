@@ -33,9 +33,7 @@
 
 -  All of my projects are available in **My GitHub**
 
--  Fun fact: **Made Possible By Viewers Like You**
-
--  Professional Bug Maker and Solver  
+-  Fun fact: **Made Possible By Viewers Like You**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
