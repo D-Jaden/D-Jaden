@@ -4,15 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
 
-- 🔭 I’m currently working on **TOO MANY PROJECTS**
+-  I’m currently working on **TOO MANY PROJECTS**
 
-- 🌱 I’m currently learning **Svelte,GSAP,PostgreSQL**
+-  I’m currently learning **Svelte,GSAP,PostgreSQL**
 
-- 👨‍💻 All of my projects are available in **My GitHub**
+-  All of my projects are available in **My GitHub**
 
-- ⚡ Fun fact: **Made Possible By Viewers Like You**
+-  Fun fact: **Made Possible By Viewers Like You**
 
-- 🐛 Professional Bug Maker and Solver  
+-  Professional Bug Maker and Solver  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
