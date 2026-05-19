@@ -178,7 +178,7 @@
   <img src="https://img.shields.io/badge/Code%20Quality-It%20Works™-green?style=for-the-badge&logo=checkmarx" alt="code quality" />
 </p>
 
-![pacman gif](https://github.com/D-Jaden/D-Jaden/blob/output/pacman-contribution-graph-dark.svg)
+![Space Invaders](https://raw.githubusercontent.com/D-Jaden/D-Jaden/output/dist/space-invaders.svg)
 
 
 
